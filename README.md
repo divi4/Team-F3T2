@@ -22,11 +22,11 @@ Collaborating with a team of my colleagues we built this project over the course
 * Update the UI of the site
 * Add ability to create an account with the site in addition to using a Microsoft or a Google account
 * Add comments to posts
-* Replace fetch requests with method overrides to reduce response times !
+* Replace fetch requests with method overrides to reduce response times
 
 ## Lessons Learned:
 
-I learnt a lot about routing, using Express.js, configuring Microsoft Azure and MongoDB and using npm. I also learnt a lot about the MVC design pattern and how its used. I'm especially proud of learning how to send queries to the database and manipulating the data to dynamically generated the views layer.
+I learnt a lot about routing, using Express.js, configuring Microsoft Azure and MongoDB and using npm. I also learnt a lot about the MVC design pattern and how its used. I'm especially proud of learning how to send queries to the database and manipulating the data to dynamically generated the views layer.  
 I also learnt about collaborating in a team effectively and was able to gain real world experience for my knowledge in project management.
 
 ## Credits
